@@ -9,7 +9,7 @@
                     <b-dropdown-item to="/RequirementMagage">Manage Requirements</b-dropdown-item>
                 </b-nav-item-dropdown>
                 <b-nav-item to="/Tickets">Tickets</b-nav-item>
-                <b-nav-item to="/MyTask">My Tasks</b-nav-item>
+                <b-nav-item to="/MyTask">Tasks</b-nav-item>
                 <b-nav-item-dropdown text="User">
                     <b-dropdown-item to="/UserGroup" >User Groups</b-dropdown-item>
                     <b-dropdown-item to="/Users" >Users</b-dropdown-item>

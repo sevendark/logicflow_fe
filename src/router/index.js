@@ -40,6 +40,13 @@ const routes = [
     }
   },
   {
+    path: '/RequirementDetail/:requirementId',
+    name: 'RequirementDetail',
+    component: function () {
+      return import('../views/RequirementDetail.vue')
+    }
+  },
+  {
     path: '/Tickets',
     name: 'Tickets',
     component: function () {

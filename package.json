@@ -8,8 +8,11 @@
   },
   "dependencies": {
     "bootstrap-vue": "^2.1.0",
+    "domador": "^2.4.4",
+    "megamark": "^3.3.0",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "woofmark": "^4.2.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-router": "~4.4.0",
