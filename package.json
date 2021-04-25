@@ -7,23 +7,25 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "bootstrap-vue": "^2.1.0",
-    "domador": "^2.4.4",
-    "megamark": "^3.3.0",
-    "vue": "^2.6.11",
-    "vue-router": "^3.2.0",
-    "woofmark": "^4.2.6"
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "@tiptap/starter-kit": "^2.0.0-beta.33",
+    "@tiptap/vue-2": "^2.0.0-beta.20",
+    "bootstrap-vue": "^2.21.2",
+    "vue": "^2.6.12",
+    "vue-router": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-router": "~4.4.0",
     "@vue/cli-service": "~4.4.0",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.6.0",
     "popper.js": "^1.16.0",
     "portal-vue": "^2.1.6",
-    "sass": "^1.19.0",
+    "sass": "^1.32.11",
     "sass-loader": "^8.0.0",
     "vue-cli-plugin-bootstrap-vue": "~0.6.0",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.12"
   },
   "browserslist": [
     "> 1%",
